@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/gk6jh_src/support")' >> /home/jovyan/.Rprofile
